@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "饿了么",
+    "navigationBarBackgroundColor": "#0297FE"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap6.json"
+}

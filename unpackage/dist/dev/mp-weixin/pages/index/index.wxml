@@ -1,0 +1,1 @@
+<view class="orderContainer"><view class="outOrderContainer"><view class="outLogin"><view class="Imginfo"><image src="../../static/images/order/toLogin.png" mode></image><view class="Info">登录后查看外卖订单</view><button class="btn">立即登录</button></view></view></view></view>
